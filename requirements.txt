@@ -1,0 +1,4 @@
+Django==1.10.6
+Markdown==3.2.1
+Pygments==2.6.1
+pytz==2020.1
